@@ -1,0 +1,3 @@
+{
+  "*.+(js|json|yml|yaml|ts|md|gql|graphql)": ["npm run format", "npm run lint"]
+}
